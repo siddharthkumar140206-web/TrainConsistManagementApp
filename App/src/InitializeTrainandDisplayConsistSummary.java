@@ -13,5 +13,5 @@ class InitializeTrainAndDisplayConsistSummary {
         System.out.println("Current Train Consist : " + trainConsist);
         System.out.println();
         System.out.println("System ready for operations...");
-    }
+     }
 }
