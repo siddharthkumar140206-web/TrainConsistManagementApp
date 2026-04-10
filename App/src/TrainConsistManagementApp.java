@@ -21,7 +21,7 @@ import java.util.Set;
         System.out.println("Bogie IDs After Insertion:");
         System.out.println(bogies);
 
-        System.out.println("\nNote:");
+        System.out.println("\nNote:") ;
         System.out.println("Duplicates are automatically ignored by HashSet.");
 
         System.out.println("\nUC3 uniqueness validation completed...");
