@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+ feature/UC8-filterPassangerBogies
+      <module fileurl="file://$PROJECT_DIR$/APP/APP.iml" filepath="$PROJECT_DIR$/APP/APP.iml" />
+
       <module fileurl="file://$PROJECT_DIR$/App/App.iml" filepath="$PROJECT_DIR$/App/App.iml" />
+dev
       <module fileurl="file://$PROJECT_DIR$/.idea/TrainConsistManagementApp.iml" filepath="$PROJECT_DIR$/.idea/TrainConsistManagementApp.iml" />
     </modules>
   </component>
