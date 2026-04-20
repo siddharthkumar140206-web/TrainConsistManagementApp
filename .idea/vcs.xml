@@ -2,5 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+ feature/UC8-filterPassangerBogies
+
+feature/UC4-Order_BogieIds
+
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+ dev
+ dev
   </component>
 </project>
