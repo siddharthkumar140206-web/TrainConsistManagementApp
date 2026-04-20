@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import java.util.Arrays;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class UseCase17TrainConsistMgmtTest {
+public class UseCase18TrainConsistMgmtTest {
 
     @Test
     void testSort_BasicAlphabeticalSorting() {
