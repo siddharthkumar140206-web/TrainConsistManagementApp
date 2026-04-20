@@ -32,6 +32,6 @@ public class TrainConsistManagementApp {
         System.out.println(trainConsist);
         System.out.println();
 
-        System.out.println("UC4 ordered consist operations completed...");
+        System.out.println("UC4 ordered consist operations completed...") ;
     }
 }
