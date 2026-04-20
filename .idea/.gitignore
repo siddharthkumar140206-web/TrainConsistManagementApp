@@ -1,10 +1,18 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+ feature/UC8-filterPassangerBogies
 # Editor-based HTTP Client requests
 /httpRequests/
+
+ dev
 # Ignored default folder with query files
 /queries/
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+ feature/UC8-filterPassangerBogies
+
+# Editor-based HTTP Client requests
+/httpRequests/
+dev
